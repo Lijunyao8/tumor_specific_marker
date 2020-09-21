@@ -1,0 +1,2 @@
+81012_1	/diskmnt/Datasets/mmy_scratch/lyao/MMY/Organized/81012_1/81012_1_processed_celltype.rds
+MMY21940	/diskmnt/Datasets/mmy_scratch/lyao/MMY/Organized/MMY21940/MMY21940_processed_celltype.rds

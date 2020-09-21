@@ -1,0 +1,2 @@
+docker build -t test .
+docker run -v /diskmnt/Datasets/mmy_scratch/lyao/MMY/Analysis/cell_surface_markers/Scripts/V8/automate_test/docker/inputs:/inputs -v /diskmnt/Datasets/mmy_scratch/lyao/MMY/Analysis/cell_surface_markers/Scripts/V8/automate_test/docker/test:/outputs -it tumor_specific_marker bash /myscript.sh -O /outputs/ -R /inputs/rds_list.txt -C Plasma -G lymphocytes -H bone_marrow,thymus,spleen,appendix,tonsil,lymph_node -P BM_and_lymphoid_tissues

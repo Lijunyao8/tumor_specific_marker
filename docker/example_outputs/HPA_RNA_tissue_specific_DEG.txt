@@ -1,0 +1,120 @@
+  ----------------------------------------------------------------------------
+  GENE           TISSUE               P-VALUE        FDR            EXPRESSION
+  ----------------------------------------------------------------------------
+  ATF5           liver                0.00000        0.00000        470.7
+  FKBP11         pancreas             0.00000        0.00000        175.6
+  JSRP1          skeletal muscle      0.00000        0.00000        92.0
+  PRDX4          pancreas             0.00000        0.00000        320.8
+  SEL1L          pancreas             0.00000        0.00000        121.3
+  SPAG4          pancreas             0.00000        0.00000        54.3
+  SSR4           pancreas             0.00000        0.00000        699.0
+  P4HB           pancreas             0.00000000000  0.00000000000  677.5
+  XBP1           pancreas             0.00000000000  0.00000000000  321.9
+  LY96           granulocytes         0.00000000000  0.00000000000  92.6
+  MTDH           liver                0.00000000000  0.00000000000  97.8
+  PDIA4          liver                0.00000000000  0.00000000010  164.3
+  CREB3L2        placenta             0.00000000000  0.00000000238  81.6
+  KDELR2         liver                0.00000000004  0.00000001465  158.4
+  SLC3A2         parathyroid gland    0.00000000005  0.00000001613  138.6
+  ZNF593         skeletal muscle      0.00000000011  0.00000003327  59.3
+  SPCS3          pancreas             0.00000000013  0.00000003817  85.0
+  CALR           liver                0.00000000059  0.00000016067  302.6
+  MZB1           thymus               0.00000000094  0.00000024167  152.6
+  SSR3           pancreas             0.00000000108  0.00000026221  153.1
+  HSPA5          thyroid gland        0.00000000239  0.00000055266  219.3
+  DNAJB11        liver                0.00000000254  0.00000055911  83.5
+  PHPT1          skeletal muscle      0.00000000460  0.00000096737  86.0
+  TMBIM6         liver                0.00000001066  0.0000021496   245.5
+  DDOST          pancreas             0.00000001517  0.0000029356   146.9
+  HSP90B1        thyroid gland        0.00000001894  0.0000035241   338.5
+  SEC11C         salivary gland       0.00000001933  0.0000035241   132.6
+  CISD2          liver                0.00000002004  0.0000035241   40.5
+  PSAT1          liver                0.00000003574  0.0000059600   112.2
+  ATF4           salivary gland       0.00000004354  0.0000070198   241.8
+  PPIB           liver                0.00000004395  0.0000070198   285.9
+  HSP90B1        liver                0.00000011913  0.000018004    325.1
+  TMED9          pancreas             0.00000013055  0.000019132    134.5
+  SIL1           pancreas             0.00000014350  0.000020411    64.3
+  TMEM205        liver                0.00000016115  0.000022266    90.8
+  FCRL5          tonsil               0.00000019380  0.000026034    39.1
+  TMED2          pancreas             0.00000020069  0.000026231    135.4
+  HERPUD1        pancreas             0.00000027677  0.000035223    148.6
+  UQCRQ          skeletal muscle      0.00000046248  0.000057348    174.9
+  TRAM1          liver                0.00000049768  0.000060170    123.7
+  PDIA6          pancreas             0.00000053472  0.000063071    141.6
+  DERL3          pancreas             0.00000082126  0.000094562    80.8
+  SSR2           pancreas             0.00000093981  0.00010570     168.9
+  MYDGF          pancreas             0.0000014801   0.00016268     115.5
+  CCND1          parathyroid gland    0.0000020476   0.00022005     83.2
+  HM13           salivary gland       0.0000022175   0.00023313     149.6
+  DERL3          dendritic cells      0.0000027847   0.00028653     77.7
+  ATRAID         epididymis           0.0000032946   0.00033193     119.7
+  SPCS1          dendritic cells      0.0000035651   0.00035185     123.4
+  KRTCAP2        pancreas             0.0000036920   0.00035709     144.2
+  TMEM258        pancreas             0.0000037387   0.00035709     117.2
+  CALR           thyroid gland        0.0000039854   0.00037064     250.6
+  DNAJC3         liver                0.0000048046   0.00043840     61.9
+  OSTC           dendritic cells      0.0000048861   0.00043840     79.4
+  TMEM208        dendritic cells      0.0000092285   0.00081144     58.6
+  TMEM59         granulocytes         0.000011318    0.00097739     146.1
+  MYDGF          liver                0.000013085    0.0011102      108.0
+  ----------------------------------------------------------------------------
+  GENE           TISSUE               P-VALUE        FDR            EXPRESSION
+  ----------------------------------------------------------------------------
+  FCRL5          appendix             0.000013279    0.0011102      33.9
+  ERLEC1         pancreas             0.000015955    0.0013078      69.0
+  TMED2          liver                0.000016267    0.0013111      120.1
+  DNAJB11        pancreas             0.000030715    0.0024350      67.4
+  TMEM258        dendritic cells      0.000044483    0.0034697      107.7
+  SEC61G         pancreas             0.000048001    0.0036846      114.9
+  LMAN2          pancreas             0.000057667    0.0043575      123.4
+  HM13           pancreas             0.000065811    0.0048963      132.3
+  B2M            granulocytes         0.000067086    0.0049156      341.3
+  ITM2C          dendritic cells      0.000073776    0.0053251      187.0
+  TNFRSF17       B-cells              0.000082252    0.0058496      34.1
+  SPCS1          pancreas             0.000091220    0.0063933      112.1
+  PDIA6          liver                0.00011939     0.0082481      118.4
+  HERPUD1        dendritic cells      0.00013099     0.0089221      121.9
+  CNPY2          pancreas             0.00017519     0.011767       59.9
+  P4HB           liver                0.00018907     0.012525       383.4
+  RPS27L         salivary gland       0.00020429     0.013351       99.8
+  SEC61G         dendritic cells      0.00020483     0.013351       108.6
+  FCRL5          spleen               0.00021428     0.013635       29.5
+  B2M            total PBMC           0.00021661     0.013635       323.7
+  SDF2L1         dendritic cells      0.00022420     0.013900       57.5
+  DNAJB9         liver                0.00022899     0.014018       54.3
+  COPE           liver                0.00023138     0.014018       113.3
+  LMAN2          total PBMC           0.00023207     0.014018       115.8
+  FKBP2          dendritic cells      0.00025685     0.015148       119.6
+  NHP2           dendritic cells      0.00027969     0.016296       78.2
+  COPE           total PBMC           0.00029282     0.016858       112.2
+  CCND1          liver                0.00030731     0.017484       68.1
+  SEC11C         pancreas             0.00034047     0.019145       96.8
+  HM13           liver                0.00038265     0.021270       121.3
+  SSR2           total PBMC           0.00038325     0.021270       136.9
+  TMEM205        monocytes            0.00038872     0.021270       71.0
+  TMEM208        liver                0.00039679     0.021321       51.5
+  SPCS2          dendritic cells      0.00039975     0.021321       89.7
+  FKBP2          seminal vesicle      0.00042199     0.022182       116.6
+  MZB1           dendritic cells      0.00046243     0.024046       97.7
+  KRTCAP2        dendritic cells      0.00049923     0.025684       121.1
+  XBP1           salivary gland       0.00056514     0.028769       176.0
+  SDF2L1         pancreas             0.00056949     0.028769       54.7
+  RPN2           placenta             0.00057351     0.028769       110.3
+  DPM3           pancreas             0.00062170     0.030679       62.6
+  CCPG1          granulocytes         0.00064698     0.031604       59.9
+  MTHFD2         vagina               0.00065015     0.031604       41.8
+  MIF            lymph node           0.00065153     0.031604       113.9
+  MIF            epididymis           0.00072325     0.034291       113.3
+  DNAJB9         placenta             0.00074065     0.034775       51.2
+  CISD2          pancreas             0.00075105     0.034924       29.7
+  MANF           liver                0.00081077     0.037342       65.6
+  SPCS2          granulocytes         0.00086303     0.039374       86.4
+  MZB1           spleen               0.00097715     0.044164       92.6
+  HSPA5          liver                0.00098655     0.044176       147.6
+  MANF           salivary gland       0.0010166      0.045103       64.7
+  PHPT1          heart muscle         0.0010505      0.046184       59.1
+  MANF           thyroid gland        0.0010950      0.047706       64.4
+  MANF           pancreas             0.0011501      0.049660       64.2
+total number of expression values examined: 4836
+number deemed to be high outliers: 112
