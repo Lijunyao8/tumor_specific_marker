@@ -7,7 +7,7 @@
 ## Running
 ```
 usage: 
-bash tumor_specific_marker.sh ${OUT_DIR} ${RDS_LIST} ${CELL_TYPE} {GTEX_TT} {HPA_RNA_TT} ${HPA_PRO_TT}
+bash tumor_specific_marker.sh ${OUT_DIR} ${RDS_LIST} ${CELL_TYPE} {GTEX_TISSUE} {HPA_RNA_TISSUE} ${HPA_PROTEIN_TISSUE}
 ```
 
 Example:
