@@ -6,8 +6,8 @@
 
 ## Running
 ```
-$ ./druggability.py -h
-usage: bash tumor_specific_marker.sh ${OUT_DIR} ${RDS_LIST} ${CELL_TYPE} {GTEX_TT} {HPA_RNA_TT} ${HPA_PRO_TT}
+usage: 
+bash tumor_specific_marker.sh ${OUT_DIR} ${RDS_LIST} ${CELL_TYPE} {GTEX_TT} {HPA_RNA_TT} ${HPA_PRO_TT}
 ```
 
 Example:
